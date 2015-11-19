@@ -11,5 +11,6 @@
         "lib-curl": "*",
         "lib-openssl": "*",
         "lib-libxml": "*"
-    }
+    },
+    "minimum-stability": "stable"
 }
