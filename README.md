@@ -1,5 +1,5 @@
-Biblioteca de integração PagSeguro para PHP
-===========================================
+Biblioteca de integração PagSeguro para PHP modificada para OctoberCMS
+======================================================================
 
 [![Code Climate](https://codeclimate.com/github/pagseguro/php/badges/gpa.svg)](https://codeclimate.com/github/pagseguro/php)
 
