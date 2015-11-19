@@ -1,6 +1,6 @@
 {
     "name": "fabriciorabelo/pagseguro",
-    "description": "Biblioteca de integração com o PagSeguro portada para OctoberCMS",
+    "description": "Biblioteca de integração com o PagSeguro portada para OctoberCMS.",
     "license": "Apache License 2.0",
     "autoload": {
         "classmap": ["source/PagSeguroLibrary"]
